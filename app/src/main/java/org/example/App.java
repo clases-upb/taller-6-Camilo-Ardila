@@ -14,7 +14,7 @@ public class App {
 
         try {
 
-            //System.out.println(Ejercicio_2());
+            //System.out.println(Ejercicio_1());
             System.out.println(Ejercicio_2());
             //System.out.println(Ejercicio_3());
             System.out.println(Ejercicio_4(10));
